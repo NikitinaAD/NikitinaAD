@@ -28,6 +28,7 @@ sensing, data analysis, and scientific programming.
 |---|---|
 | [priorityclip-geo](https://github.com/NikitinaAD/priorityclip-geo) | Assigns polygon overlaps by numeric priority. Accepts Polygon/MultiPolygon vector layers such as GeoPackage or GeoJSON, and writes a non-overlapping GeoPackage layer plus a CSV area audit. |
 | [lazproof-geo](https://github.com/NikitinaAD/lazproof-geo) | Verifies that a LAS/LAZ output is the exact, order-preserving spatial subset selected from its source, including header, CRS, schema, and point-record checks with a JSON report. |
+| [track2corridor-geo](https://github.com/NikitinaAD/track2corridor-geo) | Builds an auditable centerline and corridor from noisy ground mobile-mapping trajectory points, with inspectable GeoPackage layers and JSON diagnostics. |
 
 More geospatial utilities are being prepared for independent public releases.
 
