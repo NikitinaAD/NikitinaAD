@@ -5,7 +5,7 @@ and a developer of geospatial tools in Python.
 
 My work focuses on remote sensing of forests: UAV and satellite imagery, LiDAR
 and point clouds, forest-stand characteristics, and carbon-stock assessment. I use
-statistical methods and machine learning, including PyTorch and Mask R-CNN, to
+statistical methods and machine learning, to
 analyze spatial data, segment tree crowns, and combine remote-sensing products
 with field measurements.
 
